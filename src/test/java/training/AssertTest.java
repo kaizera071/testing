@@ -7,7 +7,7 @@ import java.util.Arrays;
 import org.hamcrest.core.CombinableMatcher;
 import org.junit.Test;
 
-public class kaizera {
+public class AssertTest {
 
 	@Test
 	public void testAssertArrayEquals() {
