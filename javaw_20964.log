@@ -1,0 +1,9 @@
+---
+VM version: Jun 10 2016 15:27:09 - 81_REL - optU - windows amd64 - 6 - bas2:270868 (mixed mode)
+
+Time:2016-08-1916:50:26
+Pid: 20964
+Hostname: SOFN60256903A
+current dir: C:\Users\I333731\testing
+---
+   :    [9884]  16:50:26 ***ERROR (:0): Java assert: "expected: null<null> but was: null<null>" in org.junit.Assert.assertEquals(Assert.java:115)
